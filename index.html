@@ -15,23 +15,45 @@
       color: aquamarine ;
     }
     .panel{
-    max-width: 500px;
-    height: auto;
-    border: 1px solid lightcoral;
-    padding: 20px;
-  }
+      max-width: 500px;
+      height: auto;
+      border: 1px solid lightcoral;
+      padding: 20px;
+    }
+    #rigth{
+      float: right;
+    }
+    #left{
+      width: auto;
+      height: auto;
+      border: 1px solid lightcoral;
+    }
+    #container{
+      /* width: 1200px; */
+      width: auto;
+
+    }
+  
   </style>
+
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+
 </head>
 <body>
-
-  <h1>Bars</h1>
-  <div id="bars" class="panel"></div>
+  <div id="container">
+    <div id="rigth">
+      <h1>Quotes</h1>
+      <div id="quotes" class="panel"></div>
+      <h1>Trades</h1>
+      <div id="trades" class="panel"></div>
+    </div>
+    <div id="left">
+      <h1>Aggregate historical data for ETHUSD data available each 1Min</h1>
+      <h3><a href="https://www.linkedin.com/in/igoralves1/" target="_blank">By IgorAlves</a> Going to prediction ...</h3>
+      <div id="chart"></div>
+    </div>
+  </div>
   
-  <h1>Quotes</h1>
-  <div id="quotes" class="panel"></div>
-  
-  <h1>Trades</h1>
-  <div id="trades" class="panel"></div>
 
   <script src="gridbot.js"></script>
 </body>

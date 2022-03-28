@@ -120,3 +120,7 @@ https://app.alpaca.markets/paper/dashboard/overview
 
 ### Lightweight Charts
 - [Lightweight Charts](https://www.tradingview.com/lightweight-charts/)
+
+-[lightweight-charts - OPTIONS](https://tradingview.github.io/lightweight-charts/docs/api)
+
+- [Github ISSUE](https://github.com/tradingview/lightweight-charts/issues/1002)
