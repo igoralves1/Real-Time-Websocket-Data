@@ -2,7 +2,7 @@
 pages: https://igoralves1.github.io/Real-Time-Websocket-Data/
 
 AWS: http://dg-iot-images-processes.s3-website-us-east-1.amazonaws.com/
-
+AWS: http://ws-test-high-streamming.s3-website.us-east-2.amazonaws.com/
 # Youtube Tutorials
 - [Grid Bot [Part 1] - Real-Time Websocket Data with Alpaca Crypto API](https://www.youtube.com/watch?v=6U6NhKAbO5Y&t=25s)
 - [Grid Bot [Part 2] - Real-Time Charting with JavaScript](https://www.youtube.com/watch?v=fHPPnZcsDEo)
