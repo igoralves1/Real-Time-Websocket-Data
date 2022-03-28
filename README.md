@@ -5,6 +5,7 @@ AWS: http://dg-iot-images-processes.s3-website-us-east-1.amazonaws.com/
 
 # Youtube Tutorials
 - [Grid Bot [Part 1] - Real-Time Websocket Data with Alpaca Crypto API](https://www.youtube.com/watch?v=6U6NhKAbO5Y&t=25s)
+- [Grid Bot [Part 2] - Real-Time Charting with JavaScript](https://www.youtube.com/watch?v=fHPPnZcsDEo)
 
 ### [DASHBOARD OVERVIEW](https://app.alpaca.markets/paper/dashboard/overview)
 > This is the place where we retrieve our API keys.
@@ -116,4 +117,6 @@ https://broker-app.alpaca.markets/dashboard
 
 https://app.alpaca.markets/paper/dashboard/overview
 
-something
+
+### Lightweight Charts
+- [Lightweight Charts](https://www.tradingview.com/lightweight-charts/)
