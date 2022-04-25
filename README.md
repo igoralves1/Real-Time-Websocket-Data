@@ -150,3 +150,5 @@ https://ftx.us/settings/api
 > New Read-Only API CREDENTIALS: Be sure to write down your API secret, as it will not be shown after you close this dialog.
   - API Key: 4dHM5X0WqHxrZjp0YxJX_dvLCJIljUckJDWsroBX
   - API Secret: iZt4EDZWgU-MstPKdvXwA16E9bylraoRQBIT8xhT
+
+- [wealth-lab](https://www.wealth-lab.com/Extension)
