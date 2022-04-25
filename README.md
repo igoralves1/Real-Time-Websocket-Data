@@ -3,6 +3,9 @@ pages: https://igoralves1.github.io/Real-Time-Websocket-Data/
 
 AWS: http://dg-iot-images-processes.s3-website-us-east-1.amazonaws.com/
 AWS: http://ws-test-high-streamming.s3-website.us-east-2.amazonaws.com/
+
+# Example - [wealth-lab](https://www.wealth-lab.com/Extension)
+
 # Youtube Tutorials
 - [Grid Bot [Part 1] - Real-Time Websocket Data with Alpaca Crypto API](https://www.youtube.com/watch?v=6U6NhKAbO5Y&t=25s)
 - [Grid Bot [Part 2] - Real-Time Charting with JavaScript](https://www.youtube.com/watch?v=fHPPnZcsDEo)
@@ -124,3 +127,26 @@ https://app.alpaca.markets/paper/dashboard/overview
 -[lightweight-charts - OPTIONS](https://tradingview.github.io/lightweight-charts/docs/api)
 
 - [Github ISSUE](https://github.com/tradingview/lightweight-charts/issues/1002)
+
+
+# Python Bot - VirtualEnv-[Link](https://igoralves1workspace.slack.com/archives/C0183R7BVQA/p1642796672000100?thread_ts=1600646972.000500&cid=C0183R7BVQA)
+- Create a new folder:
+  ```
+  mkdir pythonVirtualenv 
+  ```
+- Get access to this folder and create a new environment:
+  ```
+  virtualenv bot
+  ```
+- Activate the new environment:
+  ```
+  source bot/bin/activate
+  ```
+- Create the python files
+
+
+[GitHub - Bot](https://github.com/search?q=bot)
+https://ftx.us/settings/api
+> New Read-Only API CREDENTIALS: Be sure to write down your API secret, as it will not be shown after you close this dialog.
+  - API Key: 4dHM5X0WqHxrZjp0YxJX_dvLCJIljUckJDWsroBX
+  - API Secret: iZt4EDZWgU-MstPKdvXwA16E9bylraoRQBIT8xhT
